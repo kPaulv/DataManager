@@ -1,0 +1,1 @@
+dotnet ef migrations add Initial -s ../Console/Console.csproj -p Database.csproj -c PaymentContext -o Migrations
